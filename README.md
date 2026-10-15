@@ -1,0 +1,2 @@
+# Descriptive-Analytics-Projects-
+IBM COGNOS FILES PROJECT AND AMUL ANALYTICS REPORT 
